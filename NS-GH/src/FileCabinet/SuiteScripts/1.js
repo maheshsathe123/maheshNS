@@ -19,6 +19,7 @@ function pageInit()
      //  );
    catch(err)
    {
+    
      nlapiLogExecution("ERROR","error occured:"+err")
     }
 }
